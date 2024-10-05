@@ -1,0 +1,17 @@
+.card {
+    width: 100px;
+    height: 100px;
+    border-radius: 12px;
+    color: blueviolet;
+    border: 1px solid rgb(73, 196, 83);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.board {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
